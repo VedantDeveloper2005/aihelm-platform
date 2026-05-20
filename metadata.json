@@ -1,0 +1,6 @@
+{
+  "name": "AIHelm",
+  "description": "Synthetic Precision for the Cloud-Native Era. AI-powered incident management, auto-healing, and multi-cluster monitoring helper.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
